@@ -3529,12 +3529,12 @@
                                 Ж
 								
 [vc_row][vc_column][mk_table]
-<table width=100%>
+<table width="100%">
 <thead>
 <tr>
-<td style="text-align: left;">Ф. И. О.</td>
-<td style="text-align: left;">Адрес</td>
-<td style="text-align: left;">Телефон</a></td>
+<th style="text-align: left;">Ф. И. О.</td>
+<th style="text-align: left;">Адрес</td>
+<th style="text-align: left;">Телефон</a></td>
 </tr>
 </thead>
 <tbody>
@@ -3556,112 +3556,424 @@
 <tr>
 <td style="text-align: left;">Жадейко А. П.</td>
 <td style="text-align: left;">пер. Кирова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;"><a href="tel:+375215443084">43084</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жандаров Н. Н.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443855">43855</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жданкович Д. А.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215443764">43764</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Желтоносова Т. Т.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442146">42146</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Желудкевич А. С.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442932">42932</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Желудкевич Л. А.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215441062">41062</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Желудкевич Л. Н.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443882">43882</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Желудкевич С. В.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215442761">42761</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жижикин А. А.</td>
+<td style="text-align: left;">пер. Молодёжный</td>
+<td style="text-align: left;"><a href="tel:+375215441117">41117</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель В. Г.</td>
+<td style="text-align: left;">ул. Луговая</td>
+<td style="text-align: left;"><a href="tel:+375215441627">41627</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Г. И.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443688">43688</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Д. А.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441885">41885</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Д. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441513">41513</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Е. К.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442157">42157</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Ж. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443338">43338</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель К. Н.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441299">41299</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Л. И. </td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215442173">42173</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Л. О.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215449007">49007</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель С. А.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215443156">43156</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Ю. Е.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444203">44203</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жингель Я. Б.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215442049">42049</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Жабенок В. А.</td>
-<td style="text-align: left;">ул. Заслонова</td>
-<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+<td style="text-align: left;">Жинь В. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442737">42737</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жойдик И. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215460336">60336</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жук В. Б.</td>
+<td style="text-align: left;">ул. Красноармейская</td>
+<td style="text-align: left;"><a href="tel:+375215444221">44221</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жук В. М.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442511">42511</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жук И. К.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443947">43947</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жук С. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442578">42578</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жукова З. Т.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215447389">47389</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жукова М. А.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215443678">43678</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жуковская Н. Ф.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215442792">42792</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Журавская В. И.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441909">41909</a></td>
+</tr>
+</tbody>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+
+                                    З
+									
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</td>
+<th style="text-align: left;">Адрес</td>
+<th style="text-align: left;">Телефон</a></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. М.</td>
+<td style="text-align: left;">ул. Пионерская</td>
+<td style="text-align: left;"><a href="tel:+375215449281">49281</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Забелло А. Б.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441198">41198</a></td>
 </tr>
 </tbody>
 </table>
