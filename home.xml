@@ -2,9 +2,9 @@
 <table width="100%">
 <thead>
 <tr>
-<th>Ф. И. О.</th>
-<th>Адрес</th>
-<th>Телефон</th>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
 </tr>
 </thead>
 <tbody>
@@ -2190,7 +2190,7 @@
 </tr>
 <tr>
 <td style="text-align: left;">Волох Е. А.</td>
-<td style="text-align: left;">пер. Кирова2</td>
+<td style="text-align: left;">пер. Кирова</td>
 <td style="text-align: left;"><a href="tel:+375215460238">60238</a></td>
 </tr>
 <tr>
@@ -2946,6 +2946,7 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
+</thead>
 <tr>
 <td style="text-align: left;">Далецкая А. Н.</td>
 <td style="text-align: left;">ул. Гагарина</td>
@@ -3374,6 +3375,7 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
+</thead>
 <tr>
 <td style="text-align: left;">Евдокимов В. Л.</td>
 <td style="text-align: left;">ул. 17Сентября</td>
@@ -3458,15 +3460,18 @@
 <td style="text-align: left;">Ермоленко А. В.</td>
 <td style="text-align: left;">ул. М.Горького</td>
 <td style="text-align: left;"><a href="tel:+375215460017">60017</a></td>
-</tr><tr>
+</tr>
+<tr>
 <td style="text-align: left;">Ермолович В. О.</td>
 <td style="text-align: left;">ул. М.Горького</td>
 <td style="text-align: left;"><a href="tel:+375215444092">44092</a></td>
-</tr><tr>
+</tr>
+<tr>
 <td style="text-align: left;">Ермолович Л. А.</td>
 <td style="text-align: left;">ул. Халаева</td>
 <td style="text-align: left;"><a href="tel:+375215442674">42674</a></td>
-</tr><tr>
+</tr>
+<tr>
 <td style="text-align: left;">Ермолович Р. В.</td>
 <td style="text-align: left;">ул. Октябрьская</td>
 <td style="text-align: left;"><a href="tel:+375215442378">42378</a></td>
@@ -3519,3 +3524,145 @@
 </tbody>
 </table>
 [/mk_table][/vc_column][/vc_row]
+
+
+                                Ж
+								
+[vc_row][vc_column][mk_table]
+<table width=100%>
+<thead>
+<tr>
+<td style="text-align: left;">Ф. И. О.</td>
+<td style="text-align: left;">Адрес</td>
+<td style="text-align: left;">Телефон</a></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок Н. М.</td>
+<td style="text-align: left;">пер. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215449028">49028</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабицкий С. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443818">43818</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жадейко А. П.</td>
+<td style="text-align: left;">пер. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Жабенок В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443316">43316</a></td>
+</tr>
+</tbody>
+</table>
+[/mk_table][/vc_column][vc_row]
