@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Стили</title>
+  <title>Телефонный справочник Шарковщина 2014</title>
   <link rel="stylesheet" href="http://sharkovphone.xyz/style.css">
  </head>
  <body>
