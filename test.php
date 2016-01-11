@@ -22,9 +22,10 @@ if (!$link) {
 } 
 
 /* Посылаем запрос серверу */ 
-if ($result = mysqli_query($link, 'SELECT name, address, phone FROM phones ORDER BY name ASC')) { 
+if ($result = mysqli_query($link, 'SELECT SUBSTRING(`phone`, 9, 13) AS name, address, phone FROM phones ORDER BY name ASC')) { 
 
-echo "<tr><td>ИМЯ</td><td>АДРЕС</td><td>ТЕЛЕФОН</td>";	
+echo "<table>";
+echo "<th><td>ИМЯ</td><td>АДРЕС</td><td>ТЕЛЕФОН</td></th>";	
 	
     /* Выборка результатов запроса */ 
     while( $row = mysqli_fetch_assoc($result) ){ 
@@ -34,7 +35,8 @@ echo "<tr><td>ИМЯ</td><td>АДРЕС</td><td>ТЕЛЕФОН</td>";
 	echo "<td>" . $row["phone"] . "</td>";
     echo "</tr>";
     } 
-
+echo "</table>";
+	
     /* Освобождаем используемую память */ 
     mysqli_free_result($result); 
 } 
