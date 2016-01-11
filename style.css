@@ -1,6 +1,6 @@
 table {
   border: 1px solid #69c;
-  weight="100%";
+  width: 100%;
 }
 th {
   font-weight: normal;
