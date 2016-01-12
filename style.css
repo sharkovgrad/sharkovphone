@@ -3,12 +3,14 @@ table {
   width: 100%;
 }
 th {
-  font-weight: normal;
+  font-size: 150%;
+  text-align: left;
   color: #039;
   border-bottom: 1px dashed #69c;
   padding: 12px 17px;
 }
 td {
+  font-size: 150%;
   color: #669;
   padding: 7px 17px;
 }
