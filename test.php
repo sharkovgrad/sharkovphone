@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Телефонный справочник Шарковщина 2014</title>
   <link rel="stylesheet" href="http://sharkovphone.xyz/style.css">
+  <meta name=viewport content="width=device-width">
  </head>
  <body>
 
@@ -22,10 +23,10 @@ if (!$link) {
 } 
 
 /* Посылаем запрос серверу */ 
-if ($result = mysqli_query($link, 'SELECT SUBSTRING(`phone`, 9, 13) AS name, address, phone FROM phones ORDER BY name ASC')) { 
+if ($result = mysqli_query($link, 'SELECT name, address, phone FROM phones ORDER BY name ASC')) { 
 
 echo "<table>";
-echo "<th><td>ИМЯ</td><td>АДРЕС</td><td>ТЕЛЕФОН</td></th>";	
+echo "<tr><th>ИМЯ</th><th>АДРЕС</th><th>ТЕЛЕФОН</th></tr>";	
 	
     /* Выборка результатов запроса */ 
     while( $row = mysqli_fetch_assoc($result) ){ 
