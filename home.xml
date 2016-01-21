@@ -6,8 +6,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Аборович С. В.</td>
 <td style="text-align: left;">ул. Энгельса</td>
@@ -503,7 +501,7 @@
 <td style="text-align: left;">ул. М.Горького</td>
 <td style="text-align: left;"><a href="tel:+375215443207">43207</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -518,8 +516,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Бабаева В. С.</td>
 <td style="text-align: left;">пер. Советский</td>
@@ -1812,7 +1808,7 @@
 <td style="text-align: left;">ул. Советская</td>
 <td style="text-align: left;"><a href="tel:+375215441719">41719</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -1826,8 +1822,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Вавинская О. Г.</td>
 <td style="text-align: left;">ул. 17Сентября</td>
@@ -2228,7 +2222,7 @@
 <td style="text-align: left;">ул. Комсомольская</td>
 <td style="text-align: left;"><a href="tel:+375215442337">42337</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -2243,8 +2237,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Гавруто Т. С.</td>
 <td style="text-align: left;">ул. Краснодворская</td>
@@ -2930,7 +2922,7 @@
 <td style="text-align: left;">ул. Краснодворская</td>
 <td style="text-align: left;"><a href="tel:+375215441620">41620</a></td>
 </tr>
-</tbody>
+</th\>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -2946,7 +2938,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
 <tr>
 <td style="text-align: left;">Далецкая А. Н.</td>
 <td style="text-align: left;">ул. Гагарина</td>
@@ -3361,7 +3352,7 @@
 <td style="text-align: left;">ул. Тимирязева</td>
 <td style="text-align: left;"><a href="tel:+375215443256">43256</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -3375,7 +3366,6 @@
 <th style="text-align: left;">Адрес</th>
 <th style="text-align: left;">Телефон</th>
 </tr>
-</thead>
 <tr>
 <td style="text-align: left;">Евдокимов В. Л.</td>
 <td style="text-align: left;">ул. 17Сентября</td>
@@ -3521,7 +3511,7 @@
 <td style="text-align: left;">ул. М.Горького</td>
 <td style="text-align: left;"><a href="tel:+375215460034">60034</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][/vc_row]
 
@@ -3536,8 +3526,6 @@
 <th style="text-align: left;">Адрес</td>
 <th style="text-align: left;">Телефон</a></td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Жабенок В. А.</td>
 <td style="text-align: left;">ул. Заслонова</td>
@@ -3708,7 +3696,7 @@
 <td style="text-align: left;">ул. Доватора</td>
 <td style="text-align: left;"><a href="tel:+375215441909">41909</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -3723,8 +3711,6 @@
 <th style="text-align: left;">Адрес</td>
 <th style="text-align: left;">Телефон</a></td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Забелло А. Б.</td>
 <td style="text-align: left;">ул. Котовского</td>
@@ -4075,7 +4061,7 @@
 <td style="text-align: left;">ул. М.Горького</td>
 <td style="text-align: left;"><a href="tel:+375215443135">43135</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -4090,14 +4076,12 @@
 <th style="text-align: left;">Адрес</td>
 <th style="text-align: left;">Телефон</a></td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Иваничкина Т. А.</td>
 <td style="text-align: left;">ул. Георгия Скарины</td>
 <td style="text-align: left;"><a href="tel:+375215443188">43188</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -4112,8 +4096,6 @@
 <th style="text-align: left;">Адрес</td>
 <th style="text-align: left;">Телефон</a></td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="text-align: left;">Кабак Б. Ю.</td>
 <td style="text-align: left;">ул. 17Сентября</td>
@@ -5835,7 +5817,7 @@
 <td style="text-align: left;">ул. Гоголя</td>
 <td style="text-align: left;"><a href="tel:+375215441559">41559</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -6974,7 +6956,8 @@
 <td style="text-align: left;">ул. Пушкина</td>
 <td style="text-align: left;"><a href="tel:+375215441519">41519</a></td>
 </tr>
-</tbody>
+</thead
+>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -7903,7 +7886,7 @@
 <td style="text-align: left;">ул. Мелиораторов</td>
 <td style="text-align: left;"><a href="tel:+375215441583">41583</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -8176,7 +8159,7 @@
 <td style="text-align: left;">ул. Халаева</td>
 <td style="text-align: left;"><a href="tel:+375215443443">43443</a></td>
 </tr>
-</tbody>
+</thead>
 </table>
 [/mk_table][/vc_column][vc_row]
 
@@ -9694,125 +9677,3690 @@
 <td style="text-align: left;"><a href="tel:+375215441712">41712</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Римденок М. Д.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443126">43126</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Римденок М. Н.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215442415">42415</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Римденок О. В.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443944">43944</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Римденок О. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441729">41729</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рогачевская О. В.</td>
+<td style="text-align: left;">ул. Берегового</td>
+<td style="text-align: left;"><a href="tel:+375215460149">60149</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рогачевский В. Н.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441018">41018</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Роговой А. В.</td>
+<td style="text-align: left;">пер. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215444195">44195</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Роголевич С. Ф.</td>
+<td style="text-align: left;">ул. Берегового</td>
+<td style="text-align: left;"><a href="tel:+375215460138">60138</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
+<td style="text-align: left;">Рогочевская А. С.</td>
 <td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;"><a href="tel:+375215444167">44167</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
+<td style="text-align: left;">Романович А. И.</td>
 <td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;"><a href="tel:+375215442751">42751</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
+<td style="text-align: left;">Романович К. А.</td>
 <td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;"><a href="tel:+375215442391">42391</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Романович М. В.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215443835">43835</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Романовская О. Л.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215444173">44173</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Романовская С. Е.</td>
+<td style="text-align: left;">ул. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215442519">42519</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Романовская Л. Я.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215441153">41153</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Роскач Т. Н.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442835">42835</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубацкий Н. Н.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215443705">43705</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубашко З. Л.</td>
+<td style="text-align: left;">ул. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215441619">41619</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубис М. Н.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215443100">43100</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубникович А. И.</td>
+<td style="text-align: left;">ул. Энергетиков</td>
+<td style="text-align: left;"><a href="tel:+375215443943">43943</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
+<td style="text-align: left;">Рубникович А. О.</td>
 <td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;"><a href="tel:+375215441532">41532</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубникович В. С.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443836">43836</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
-<td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;">Рубникович П. П.</td>
+<td style="text-align: left;">ул. Лермонтова</td>
+<td style="text-align: left;"><a href="tel:+375215443532">43532</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Рачицкая В. В.</td>
+<td style="text-align: left;">Рубникович Т. А.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441359">41359</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рубцова Л. Ф.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215460248">60248</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рудак Е. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215460099">60099</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рудак Ж. Д.</td>
+<td style="text-align: left;">ул. Гагарина</td>
+<td style="text-align: left;"><a href="tel:+375215443360">43360</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рудак Н. А.</td>
 <td style="text-align: left;">ул. М.Горького</td>
-<td style="text-align: left;"><a href="tel:+375215444141">44141</a></td>
+<td style="text-align: left;"><a href="tel:+375215444149">44149</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рудак С. В.</td>
+<td style="text-align: left;">ул. Фрунзе</td>
+<td style="text-align: left;"><a href="tel:+375215441826">41826</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рудак Т. М.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441509">41509</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русак С. А.</td>
+<td style="text-align: left;">ул. Драздовича</td>
+<td style="text-align: left;"><a href="tel:+375215442621">42621</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русаченок А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442754">42754</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русаченок А. В.</td>
+<td style="text-align: left;">ул. Набережная</td>
+<td style="text-align: left;"><a href="tel:+375215441541">41541</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русаченок В. А.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215441602">41602</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русецкий И. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442726">42726</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Русецкий Ф. Н.</td>
+<td style="text-align: left;">ул. Суворова</td>
+<td style="text-align: left;"><a href="tel:+375215441107">41107</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рутковская М. Г.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442013">42013</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рутковская Т. В.</td>
+<td style="text-align: left;">пер. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441209">41209</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбак В. А.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441816">41816</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбакова О. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444042">44042</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбалко А. Н.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442673">42673</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбина Л. П.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442078">42078</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбникова З. М.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215443572">43572</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыбникова Ф. И.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441006">41006</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыжая Л. А.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442286">42286</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыжий И. В.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443603">43603</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыжий Р. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442518">42518</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рылов К. В.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215442275">42275</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рылова Е. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443566">43566</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рылова Т. М.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442096">42096</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рымденок Л. Ю.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215443871">43871</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рымденок С. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442645">42645</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рымденок Ю. Ю.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442649">42649</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рымченок А. Б.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442589">42589</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рымченок О. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215443218">43218</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рынкевич Н. Я.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215442628">42628</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рынцевич В. В.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215447158">47158</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыськов М. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444135">44135</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рыхлицкая А. А.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442315">42315</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рябов А. В.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215441460">41460</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рябов А. В.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215443533">43533</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Рязанцева С. К.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215443481">43481</a></td>
 </tr>
 </thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                   С
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Савейко А. А.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441028">41028</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савейко Н. Г.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444047">44047</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савелов Н. М.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443315">43315</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савелов П. М.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215443734">43734</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савельев М. Ф.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215442522">42522</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савельева Е. А.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215442643">42643</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савельева И. Р.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215460071">60071</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савельева О. Н.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215441294">41294</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савицкая А. А.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441679">41679</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савицкий А. М.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443284">43284</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савич А. П.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442325">42325</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Савчук В. В.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215444054">44054</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Садовский О. А.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441852">41852</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сазуров В. В.</td>
+<td style="text-align: left;">пер. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442723">42723</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сайковская В. А.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215449525">49525</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сайковская Е. П.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443357">43357</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сайковская С. А.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442827">42827</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сайковская С. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442775">42775</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Саков Н. Н.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215442543">42543</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сакун Ф. Ф.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441927">41927</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Салачонок А. А.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442092">42092</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Самозванов А. М.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+37521544434">44234</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Самозванова З. Л.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215443137">43137</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Самозванова С. К.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443562">43562</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Самсонова Э. М.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442818">42818</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Самуль М. Ю.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443341">43341</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сапонько Л. И.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444134">44134</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сарай И. И.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215441674">41674</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Саулич Т. Ф.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215441399">41399</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сауть Д. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444166">44166</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сафончик Г. П.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443568">43568</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сафонькин Л. Н.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441525">41525</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сафронова И. В.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215441063">41063</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сваток Н. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442145">42145</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свиленок Н. Р.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215442002">42002</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свиленок Ф. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442427">42427</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свило С. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442208">42208</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свирко А. С.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441825">41825</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свирко М. А.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215441873">41873</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свирко О. В.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442266">42266</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свиркович Л. А.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215441023">41023</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святская Е. Б.</td>
+<td style="text-align: left;">пер. Метеорологический</td>
+<td style="text-align: left;"><a href="tel:+375215441227">41227</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святская Л. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215460202">60202</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святская О. В.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441993">41993</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святская Т. Б.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443307">43307</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святский А. П.</td>
+<td style="text-align: left;">ул. Восточная</td>
+<td style="text-align: left;"><a href="tel:+375215443021">43021</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Святский Ю. Ф.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441053">41053</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая Е. А.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215442152">42152</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая Е. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444196">44196</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая З. М.</td>
+<td style="text-align: left;">пер. Дисненский</td>
+<td style="text-align: left;"><a href="tel:+375215441312">41312</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая Л. Я.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215442971">42971</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая О. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443736">43736</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкая Я. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442985">42985</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкий А. В.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215442597">42597</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкий И. Н.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443056">43056</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Свяцкий И. Ю.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215443827">43827</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седловский В. Г.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442666">42666</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич А. В.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215442874">42874</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич А. Н.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215443254">43254</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич А. С.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442569">42569</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. А.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443263">43263</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. А.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215443630">43630</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. В.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215441096">41096</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. Е.</td>
+<td style="text-align: left;">ул. Суворова</td>
+<td style="text-align: left;"><a href="tel:+375215441027">41027</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. И.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215443942">43942</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич В. Ф.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215442808">42808</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Г. А.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215460180">60180</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Г. В.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442769">42769</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Г. И.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215441378">41378</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Д. В.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215460326">60326</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Д. П.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441411">41411</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич И. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441789">41789</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич К. У.</td>
+<td style="text-align: left;">ул. Энергетиков</td>
+<td style="text-align: left;"><a href="tel:+375215443955">43955</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич М. А.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443509">43509</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Н. Е.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441884">41884</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Н. Н.</td>
+<td style="text-align: left;">ул. Энергетиков</td>
+<td style="text-align: left;"><a href="tel:+375215443937">43937</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Р. А.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215441398">41398</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Р. В.</td>
+<td style="text-align: left;">пер. Кирова 1-й</td>
+<td style="text-align: left;"><a href="tel:+375215460344">60344</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич С. В.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443742">43742</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич С. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215443529">43529</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Т. В.</td>
+<td style="text-align: left;">ул. Зеленая</td>
+<td style="text-align: left;"><a href="tel:+375215442400">42400</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Седюкевич Ф. П.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215460317">60317</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сезеневский М. Ч.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215441850">41850</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сейко В. П.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443812">43812</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Секлюцкий М. А.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215443457">43457</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селезень Е. В.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215442446">42446</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селицкая А. Н.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215443794">43794</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селицкая И. И.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443174">43174</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селицкая Л. Н.</td>
+<td style="text-align: left;">пер. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215441280">41280</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селицкий В. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460313">60313</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селюк М. И.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215441428">41428</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селюк С. И.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215442300">42300</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селявко Г. С.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443452">43452</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селявко Е. Г.</td>
+<td style="text-align: left;">д. Ольховцы</td>
+<td style="text-align: left;"><a href="tel:+375215443107">43107</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селявко М. Р.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441762">41762</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селявко Р. Н.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215443657">43657</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Селявко С. Г.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215460209">60209</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семашко Т. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443651">43651</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенов А. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443097">43097</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенов А. И.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443061">43061</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенов М. И.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215443752">43752</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенов С. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443086">43086</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенова К. Е.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443039">43039</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенова Н. Л.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442019">42019</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">СеменоваТ. В.</td>
+<td style="text-align: left;">ул. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215442657">42657</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семенчукова Г. Б.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215460130">60130</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Семченок Н. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441456">41456</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сериков В. Т.</td>
+<td style="text-align: left;">пер. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441971">41971</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивак Т. П.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215442757">42757</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивицкая В. Е.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442185">42185</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивицкая Е. Д.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443271">43271</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивицкая Е. Ч.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215444009">44009</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивицкий И. Ю.</td>
+<td style="text-align: left;">пер. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442523">42523</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сивицкий Н. Н.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215444055">44055</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сигноедова Т. А.</td>
+<td style="text-align: left;">пер. Дисненский</td>
+<td style="text-align: left;"><a href="tel:+375215442154">42154</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикора В. А.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215442125">42125</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикора Л. А.</td>
+<td style="text-align: left;">ул. Луговая</td>
+<td style="text-align: left;"><a href="tel:+375215442403">42403</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикоро В. В.</td>
+<td style="text-align: left;">ул. Герцена</td>
+<td style="text-align: left;"><a href="tel:+375215442841">42841</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикоро В. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442611">42611</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикоро В. Ф.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442694">42694</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикоро Г. И.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215443175">43175</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сикоро О. И.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442172">42172</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Силова С. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444224">44224</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Силова Т. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215444180">44180</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сильванович В. И.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443787">43787</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Симанович Ж. Н.</td>
+<td style="text-align: left;">ул. Герцена</td>
+<td style="text-align: left;"><a href="tel:+375215443517">43517</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Симанович Т. Ю.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442211">42211</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Симонович Я. С.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215460102">60102</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица А. М.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215443232">43232</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица А. Н.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215442018">42018</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица В. Н.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215443227">43227</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица И. К.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443823">43823</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица М. Я.</td>
+<td style="text-align: left;">ул. Суворова</td>
+<td style="text-align: left;"><a href="tel:+375215442969">42969</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица Н. Н.</td>
+<td style="text-align: left;">ул. Машары</td>
+<td style="text-align: left;"><a href="tel:+375215441134">41134</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица О. Т.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460218">60218</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица Т. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444088">44088</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синица Э. И.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441903">41903</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Синявский В. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442634">42634</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сипович В. В.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215443133">43133</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сипович М. А.</td>
+<td style="text-align: left;">ул. Мичурина</td>
+<td style="text-align: left;"><a href="tel:+375215443427">43427</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сипович С. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443346">43346</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сипович Т. П.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215444207">44207</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сипович Э. В.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215443147">43147</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ситкович А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443980">43980</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ситкович М. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215449505">49505</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скарбовская Р. А.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441940">41940</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скворцова Н. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443707">43707</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скибицкая Е. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443306">43306</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Склярова М. Г.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442885">42885</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сковырко А. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441191">41191</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скопец П. Г.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215443473">43473</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скрипленок Н. А.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441877">41877</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скуковская А. И.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443945">43945</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скурат С. С.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443777">43777</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Скурат Т. С.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215443761">43761</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Слабович В. П.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215443298">43298</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Слабович И. А.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444183">44183</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Слабович М. Н.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215442160">42160</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смаль Г. Г.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442471">42471</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смертьев В. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441907">41907</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смертьев Л. М.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215444132">44132</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смирнов В. А.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442901">42901</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смирнова В. Ю.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215444048">44048</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смолко О. К.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443109">43109</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смолякова Т. О.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442952">42952</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смулькевич Н. З.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442487">42487</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Смулько Э. А.</td>
+<td style="text-align: left;">пер. Игнатьева</td>
+<td style="text-align: left;"><a href="tel:+375215441436">41436</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Снарский А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460067">60067</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Снетков С. У.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443859">43859</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Снытко Н. Ф.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444015">44015</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Собаль Т. А.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215441883">41883</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Собаль Л. П.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215443869">43869</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сойко А. М.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215441292">41292</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколов В. Н.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443143">43143</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколов Н. А.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442651">42651</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколова Т. К.</td>
+<td style="text-align: left;">ул. Набережная</td>
+<td style="text-align: left;"><a href="tel:+375215441149">41149</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколович З. С.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442688">42688</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколовская В. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441800">41800</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколовская В. П.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215443098">43098</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколовская И. Р.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443122">43122</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соколовский С. В.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215442561">42561</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьев В. В.</td>
+<td style="text-align: left;">ул. Кооперативная</td>
+<td style="text-align: left;"><a href="tel:+375215442846">42846</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьев В. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215441941">41941</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьев Л. П.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441635">41635</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьева Е. П.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444086">44086</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьева Е. П.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441919">41919</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Соловьева Л. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215444147">44147</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Солоченок Г. С.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442293">42293</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Солоченок И. И.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215441349">41349</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Солоченок М. В.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442802">42802</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Солоченок Н. Ф.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441012">41012</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сомов П. Ю.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443456">43456</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сопель Г.Н.</td>
+<td style="text-align: left;">ул. Пионерская</td>
+<td style="text-align: left;"><a href="tel:+375215442872">42872</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сорокина З. А.</td>
+<td style="text-align: left;">пер. Чапаева</td>
+<td style="text-align: left;"><a href="tel:+375215442725">42725</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сорокина М. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443973">43973</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сорокина С. С.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443514">43514</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сосна Е. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442358">42358</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Спиридонов Б. П.</td>
+<td style="text-align: left;">ул. Зеленая</td>
+<td style="text-align: left;"><a href="tel:+375215443321">43321</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Спиридонов В. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443113">43113</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Спиридонова В. В.</td>
+<td style="text-align: left;">пер. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215442549">42549</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Спиридонова И. К.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215441812">41812</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ставицкая В. М.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215443197">43197</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станкевич С. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215449350">49350</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станько А. М.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215441165">41165</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станько Н. А.</td>
+<td style="text-align: left;">пер. Игнатьева</td>
+<td style="text-align: left;"><a href="tel:+375215442327">42327</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станюленис А. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443304">43304</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станюленис В. В.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215460325">60325</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Станюленис В. И.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215443716">43716</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Старовойтов В. И.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215443140">43140</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Старовойтова Э. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442321">42321</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стацевич А. А.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442340">42340</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сташкевич С. С.</td>
+<td style="text-align: left;">пер. Игнатьева</td>
+<td style="text-align: left;"><a href="tel:+375215442342">42342</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сташкевич Т. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215460214">60214</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сташкевич Т. Г.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215444229">44229</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сташуленок С. П.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215441572">41572</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Степаненков Н. М.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215442136">42136</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Степанов А. С.</td>
+<td style="text-align: left;">пер. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215441985">41985</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Степанов С. И.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443873">43873</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Степанова А. А.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443019">43019</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Степанова В. И.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215441310">41310</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стовманенко Г. Н.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442348">42348</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стовманенко З. И.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215442994">42994</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Столярова Т. Г.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442443">42443</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стома С. Т.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441157">41157</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стотик С. Р.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443060">43060</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Странчевская Н. П.</td>
+<td style="text-align: left;">пер. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441415">41415</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стреленко А. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215441050">41050</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стрельченок А. И.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441099">41099</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стрельченок Е. Э.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215441576">41576</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стрельченок И. И.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442264">42264</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Стрижнев В. П.</td>
+<td style="text-align: left;">ул. Некрасова</td>
+<td style="text-align: left;"><a href="tel:+375215442539">42539</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Струй В. М.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215442341">42341</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Струй З. В.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215442586">42586</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Струй Л. Б.</td>
+<td style="text-align: left;">ул. Юбилейная</td>
+<td style="text-align: left;"><a href="tel:+375215442663">42663</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Струй О. Ф.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215441506">41506</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Супраненок М. П.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215442318">42318</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Суфинович В. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442024">42024</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Суфинович В. И.</td>
+<td style="text-align: left;">ул. Язепа Дроздовича</td>
+<td style="text-align: left;"><a href="tel:+375215442898">42898</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Суфинович С. М.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443825">43825</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сухова Т. С.</td>
+<td style="text-align: left;">ул. Заречная</td>
+<td style="text-align: left;"><a href="tel:+375215443863">43863</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сушко М. Г.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442791">42791</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сырцов Г. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442239">42239</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сятковская В. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215441896">41896</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сятковская И. И.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215460118">60118</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сятковская Т. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443412">43412</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сятковский Г. В.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215443758">43758</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Сятковский Л. И.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215441185">41185</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                      Т
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Табола М. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442535">42535</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Табола О. Л.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441745">41745</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Табола С. Н.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215441060">41060</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тавкинь Н. Н.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215441085">41085</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тавкинь С. И.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442420">42420</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тавкинь С. Н.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215443700">43700</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тавкинь Т. Ч.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443356">43356</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Талкун А. Э.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441172">41172</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тамуленок А. В.</td>
+<td style="text-align: left;">ул. Энергетиков</td>
+<td style="text-align: left;"><a href="tel:+375215444000">44000</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако А. И.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215442332">42332</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако В. В.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215444052">44052</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако В. Э.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441839">41839</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако Л. Б.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215443365">43365</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако Л. В.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443148">43148</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако Р. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443436">43436</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарарако С. Э.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442934">42934</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарасенко О. Н.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443166">43166</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарасенок Г. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441911">41911</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарасенок И. И.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215442939">42239</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарасенок С. Ю.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442615">42615</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарнацкая Т. А.</td>
+<td style="text-align: left;">пер. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443494">43494</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарненок В. Ф.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443820">43820</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тарураев И. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443343">43343</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович А. И.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443799">43799</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович А. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444168">44168</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович А. С.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215441488">41488</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович В. М.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215460127">60127</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович И. П.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442712">42712</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович Н. И.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443938">43938</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович С. Н.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215442709">42709</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Татарович Я. А.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215460002">60002</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Телица Л. Л.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442438">42438</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Телюковская О. П.</td>
+<td style="text-align: left;">пер. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215442109">42109</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко А. А.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215460164">60164</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко Б. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443626">43626</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко В. Б.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215449102">49102</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко М. В.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215443419">43419</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко М. В.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442245">42245</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко С. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444150">44150</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко С. В.</td>
+<td style="text-align: left;">пер. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442598">42598</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко С. В.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215441741">41741</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко С. В.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215449214">49214</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терешко Т. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441470">41470</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терпилко А. А.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441615">41615</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терпилко Е. П.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442355">42355</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Терпилко З. Г.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443348">43348</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тимофеев К. И.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215441064">41064</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тимофеева Т. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444209">44209</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тимошенков А. В.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215460374">60374</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тимошенкова Е. Э.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443290">43290</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тимошенкова Л. А.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443856">43856</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович А. А.</td>
+<td style="text-align: left;">ул. Машары</td>
+<td style="text-align: left;"><a href="tel:+375215442552">42552</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович В. В.</td>
+<td style="text-align: left;">ул. Я.Коласа</td>
+<td style="text-align: left;"><a href="tel:+375215442037">42037</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович В. Д.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215441768">41768</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович В. П.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442593">42593</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович В. С.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215443138">43138</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович Ж. У.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215443675">43675</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович И. Г.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442913">42913</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович И. Н.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215441264">41264</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович М. И.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443510">43510</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович Н. И.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215443205">43205</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович Н. Н.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215443773">43773</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович О. Д.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215441313">41313</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович П. М.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441205">41205</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титович Ю. Г.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443613">43613</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титоренко В. Т.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444045">44045</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Титоренко Е. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460370">60370</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тишалович О. А.</td>
+<td style="text-align: left;">ул. Пионерская</td>
+<td style="text-align: left;"><a href="tel:+375215443608">43608</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тишалович О. Д.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443462">43462</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тишалович С. Ф.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442480">42480</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ткаченко С. Р.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443123">43123</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ткаченок В. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443847">43847</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ткаченок В. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443978">43978</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ткаченок В. С.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442283">42283</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Торчинский В. В.</td>
+<td style="text-align: left;">ул. М.Богдановича</td>
+<td style="text-align: left;"><a href="tel:+375215443588">43588</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толкач И. С.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441743">41743</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толкач К. В.</td>
+<td style="text-align: left;">ул. Заречная</td>
+<td style="text-align: left;"><a href="tel:+375215443782">43782</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толкач Ю. М.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442506">42506</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило А. В.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442151">42151</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443320">43320</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило А. Ч.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215460230">60230</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило В. И.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442782">42782</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило Г. В.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215441270">41270</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило Г. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442454">42454</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило З. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443043">43043</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило Л. И.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443720">43720</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило М. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442436">42436</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило М. Л.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215449375">49375</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило С. В.</td>
+<td style="text-align: left;">пер. Суворова</td>
+<td style="text-align: left;"><a href="tel:+375215442708">42708</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило С. Е.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215460092">60092</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило С. К.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215442478">42478</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Толопило С. К.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444041">44041</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Томко Е. К.</td>
+<td style="text-align: left;">ул. Герцена</td>
+<td style="text-align: left;"><a href="tel:+375215442570">42570</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Томко И. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443288">43288</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тонконог О. Н.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215441087">41087</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тонконог Я. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215441133">41133</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Торбецкий Г. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442311">42311</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо А. Б.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215449207">49207</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо Д. Н.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215449436">49436</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо И. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460215">60215</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо М. П.</td>
+<td style="text-align: left;">ул. Гагарина</td>
+<td style="text-align: left;"><a href="tel:+375215442494">42494</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо П. П.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442837">42837</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трабо П. Ю.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215460131">60131</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трафимова Л. Н.</td>
+<td style="text-align: left;">ул. Рабочая</td>
+<td style="text-align: left;"><a href="tel:+375215441224">41224</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трещинский Ч. Ч.</td>
+<td style="text-align: left;">ул. Первомайская</td>
+<td style="text-align: left;"><a href="tel:+375215441005">41005</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Троцкий Ю. А.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441780">41780</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трубило З. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443167">43167</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трубило Ф. О.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442505">42505</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трус В. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443496">43496</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Трус В. К.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215441409">41409</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тумашевич Б. Н.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215443523">43523</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок А. В.</td>
+<td style="text-align: left;">пер. Павлика Морозова</td>
+<td style="text-align: left;"><a href="tel:+375215442051">42051</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442991">42991</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок В. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443486">43486</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок Н. И.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215443605">43605</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок Н. Н.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442748">42748</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок О. О.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442903">42903</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Туронок С. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215444074">44074</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Турчинская В. Н.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215444098">44098</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Турчинская Я. М.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215442259">42259</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Турчинский Г. Л.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215443249">43249</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тусиков М. И.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215443184">43184</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Тусикова Н. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460338">60338</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                    У
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Углова Ж. Е.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443196">43196</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Уклеина Е. М.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442781">42781</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Урбанович И. С.</td>
+<td style="text-align: left;">ул. Комсомольская</td>
+<td style="text-align: left;"><a href="tel:+375215443274">43274</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Устинов Н .Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460217">60217</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Устинова А. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215444037">44037</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Уткин Д. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443045">43045</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                   Ф
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Федоров А. А.</td>
+<td style="text-align: left;">ул. Берегового</td>
+<td style="text-align: left;"><a href="tel:+375215441982">41982</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федоров В. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460145">60145</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федоров П. Я.</td>
+<td style="text-align: left;">ул. Герцена</td>
+<td style="text-align: left;"><a href="tel:+375215443312">43312</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федоров С. Г.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442930">42930</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федоров С. Т.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442755">42755</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова А. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443451">43451</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова А. Н.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215460136">60136</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова Г. П.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215460020">60020</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова Е. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442496">42496</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова Л. Ф.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442679">42679</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова М. И.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215441626">41626</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова Н. Ч.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443067">43067</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова О. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442929">42929</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова О. П.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215442627">42627</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова С. В.</td>
+<td style="text-align: left;">ул. Зеленая</td>
+<td style="text-align: left;"><a href="tel:+375215443311">43311</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорова Т. В.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442113">42113</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорович Д. Н.</td>
+<td style="text-align: left;">ул. Юбилейная</td>
+<td style="text-align: left;"><a href="tel:+375215444214">44214</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорович Л. Л.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443636">43636</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорович Т. И.</td>
+<td style="text-align: left;">ул. Юбилейная</td>
+<td style="text-align: left;"><a href="tel:+375215444212">44212</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федорович Ю. Н.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215449847">49847</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федотов Е. В.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441562">41562</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федотова А. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442205">42205</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федотова Т. Р.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441677">41677</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович А. И.</td>
+<td style="text-align: left;">пер. Заречный</td>
+<td style="text-align: left;"><a href="tel:+375215443145">43145</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович А. М.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443733">43733</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович В. А.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443001">43001</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович Е. Н.</td>
+<td style="text-align: left;">ул. Фрунзе</td>
+<td style="text-align: left;"><a href="tel:+375215443809">43809</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович И. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441648">41648</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Федукович С. Ч.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442464">42464</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фецкович Г. А.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442159">42159</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Филатова Г. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442925">42925</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Филипенок И. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441022">41022</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Филипенок О. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442613">42613</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фирсенкова Р. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443607">43607</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фомин М. С.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215460107">60107</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фотин А. Ю.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215443577">43577</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фотин А. Ю.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442773">42773</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фотин Ю. Н.</td>
+<td style="text-align: left;">ул. Машары</td>
+<td style="text-align: left;"><a href="tel:+375215441029">41029</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Фотина И. Г.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215460159">60159</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                     Х
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Хаданенок В. В.</td>
+<td style="text-align: left;">пер. Дисненский</td>
+<td style="text-align: left;"><a href="tel:+375215443018">43018</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хаданенок С. Н.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442081">42081</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хадкевич Е. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441520">41520</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хайновская М. И.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442656">42656</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Халява Е. У.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215449044">49044</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Харламов О. Ф.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215443069">43069</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Харько И. М.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442867">42867</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хахель В. Б.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443567">43567</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хашковская А. А.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215441913">41913</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хашковский С. А.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215442138">42138</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович А. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442990">42990</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович Б. С.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441612">41612</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович В. А.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442940">42940</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович З. С.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442200">42200</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович О. П.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443111">43111</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хвецкович Т. А.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442329">42329</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хихич В. Б.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441733">41733</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хлиманков А. Ф.</td>
+<td style="text-align: left;">ул. Машары</td>
+<td style="text-align: left;"><a href="tel:+375215441090">41090</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хлимонкова А. О.</td>
+<td style="text-align: left;">ул. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215442120">42120</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хмельник М. М.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215442068">42068</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок А. А.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443215">43215</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок А. А.</td>
+<td style="text-align: left;">ул. Некрасова</td>
+<td style="text-align: left;"><a href="tel:+375215441439">41439</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок А. А.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215442540">42540</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок А. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442997">42997</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок А. Д.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215444197">44197</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок В. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441698">41698</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок В. В.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215443503">43503</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Г. А.</td>
+<td style="text-align: left;">пер. Метеорологический</td>
+<td style="text-align: left;"><a href="tel:+375215443814">43814</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Д. А.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215444101">44101</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Ж. Н.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442942">42942</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Ж. Н.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443155">43155</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок З. Н.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443711">43711</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. А.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442652">42652</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. Г.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443054">43054</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. И.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215441987">41987</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. Э.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215443050">43050</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. Э.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215441069">41069</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок И. Э.</td>
+<td style="text-align: left;">ул. Машары</td>
+<td style="text-align: left;"><a href="tel:+375215442258">42258</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Л. А.</td>
+<td style="text-align: left;">ул. Пролетарская</td>
+<td style="text-align: left;"><a href="tel:+375215441331">41331</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Л. С.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443745">43745</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок М. И.</td>
+<td style="text-align: left;">ул. Красноармейская</td>
+<td style="text-align: left;"><a href="tel:+375215442799">42799</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок М. М.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215444129">44129</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок М. Ю.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215443935">43935</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок П. П.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443888">43888</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок П. Ю.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215441086">41086</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Р. К.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443368">43368</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходаненок Т. Р.</td>
+<td style="text-align: left;">ул. Народная</td>
+<td style="text-align: left;"><a href="tel:+375215441834">41834</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходасевич В. Д.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215441320">41320</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ходосевич Е. А.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442417">42417</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хоменок Т. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443236">43236</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хомич Г. Л.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443822">43822</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хохолко В. Л.</td>
+<td style="text-align: left;">ул. М.Богдановича</td>
+<td style="text-align: left;"><a href="tel:+375215443193">43193</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хохолко Г. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441821">41821</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хохолко И. Н.</td>
+<td style="text-align: left;">пер. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442162">43162</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хохолко Л. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441034">41034</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Храмцова И. М.</td>
+<td style="text-align: left;">ул. Энергетиков</td>
+<td style="text-align: left;"><a href="tel:+375215443243">43243</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол В. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442351">42351</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол В. Ф.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215443654">43654</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол И. У.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442338">42338</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол Л. Н.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442442">42442</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол О. И.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442834">42834</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол П. У.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215441211">41211</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол С. И.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443152">43152</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол Т. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441929">41929</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол Ю. Б.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215460379">60379</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хрол Ю. И.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442648">42648</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хуцкая Н. В.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441315">41315</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Хуцкий П. Л.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441441">41441</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                   Ц
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Цветкова Г. П.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215441575">41575</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цветкова Э. К.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441718">41718</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цвирко Б. С.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215442294">42294</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цеван А. С.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215443504">43504</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цедрик Г. И.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443063">43063</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циркин И. К.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215443421">43421</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циркин С. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443691">43691</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович А. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443376">43376</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович А. И.</td>
+<td style="text-align: left;">ул. Котовского</td>
+<td style="text-align: left;"><a href="tel:+375215442196">42196</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Д. А.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215442936">42936</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Д. Н.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442236">42236</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Е. М.</td>
+<td style="text-align: left;">ул. Заречная</td>
+<td style="text-align: left;"><a href="tel:+375215441847">41847</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Л. В.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215441534">41534</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович П. Ю.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441008">41008</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Р. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442385">42385</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цитович Ю. А.</td>
+<td style="text-align: left;">ул. Полевая</td>
+<td style="text-align: left;"><a href="tel:+375215442326">42326</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циунель А. Б.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215443094">43094</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циунель В. А.</td>
+<td style="text-align: left;">пер. Садовый</td>
+<td style="text-align: left;"><a href="tel:+375215441854">41854</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циунель Т. И.</td>
+<td style="text-align: left;">пер. Садовый</td>
+<td style="text-align: left;"><a href="tel:+375215441810">41810</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циунчик А. В.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215443420">43420</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Циунчик Ф. А.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215443475">43475</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цицин А. К.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442386">42386</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цу-Кан-Фу И. Г.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441678">41678</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цыбулько А. Д.</td>
+<td style="text-align: left;">ул. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215443832">43832</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цыркин Д. Д.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441603">41603</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цыркин Е. Д.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441314">41314</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Цыунчик А. В.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215443128">43128</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                      Ч
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+<tr>
+<td style="text-align: left;">Чапровский С. И.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444159">44159</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чеботарева Ж. А.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443965">43965</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чеботаренок И. Р.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442689">42689</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чепик В. Г.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215443646">43646</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чепуленок В. Н.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215442422">42422</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чепуленок И. М.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443198">43198</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чепуленок С. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443171">43171</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Червинская Я. Б.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215441088">41088</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черенок С. И.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215442312">42312</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черкес К. Н.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215460157">60157</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черкес М. П.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215441293">41293</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черкес Н. И.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215442210">42210</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черкес Ф. П.</td>
+<td style="text-align: left;">пер. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215442727">42727</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черненко Е. П.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215444204">44204</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черненко Л. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442849">42849</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черновец А. А.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442704">42704</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черновец Ю. Ю.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215460009">60009</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернухо В. М.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442389">42389</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Черныш О. М.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215460010">60010</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявская А. С.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442921">42921</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявская В. В.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442764">42764</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявская Н. В.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215441628">41628</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявская П. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442905">42905</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявская С. В.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215443454">43454</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский А. Г.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442888">42888</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский А. Н.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215443435">43435</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский А. Н.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443725">43725</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский В. Н.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443390">43390</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский И. А.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442601">42601</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский Р. В.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441905">41905</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чернявский С. А.</td>
+<td style="text-align: left;">ул. Пушкина</td>
+<td style="text-align: left;"><a href="tel:+375215441171">41171</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чижевская В. Ю.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441538">41538</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чижевский А. Н.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442463">42463</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чижевский Э. П.</td>
+<td style="text-align: left;">ул. Заводская</td>
+<td style="text-align: left;"><a href="tel:+375215442801">42801</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чужкова С. Л.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215444130">44130</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Чуро А. Н.</td>
+<td style="text-align: left;">ул. Заслонова</td>
+<td style="text-align: left;"><a href="tel:+375215442237">42237</a></td>
+</tr>
+</thead>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                  Ш
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Шабайло М. И.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443621">43621</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловская А. М.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443564">43564</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловская Л. И.</td>
+<td style="text-align: left;">пер. Метеорологический</td>
+<td style="text-align: left;"><a href="tel:+375215441970">41970</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловская М. Т.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441594">41594</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловская Р. Ч.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443791">43791</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловская Ю. В.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442945">42945</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабловский В. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442449">42449</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шабуцкая Д. В.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215441961">41961</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шалковская Н. В.</td>
+<td style="text-align: left;">ул. Красноармейская</td>
+<td style="text-align: left;"><a href="tel:+375215442637">42637</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шальц А. В.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215441387">41387</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шамрович Е. М.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443793">43793</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шамшур В. С.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215442221">42221</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шамшур Л. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443631">43631</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шамшура А. И.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443425">43425</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шамшура Л. М.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215442988">42988</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шантар В. В.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215441921">41921</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шантор С. М.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444089">44089</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шапетько П. Н.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441281">41281</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарак А. А.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443006">43006</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарак И. П.</td>
+<td style="text-align: left;">пер. Рабочий</td>
+<td style="text-align: left;"><a href="tel:+375215442022">42022</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарак И. П.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442691">42691</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарак С. Н.</td>
+<td style="text-align: left;">ул. Буденного</td>
+<td style="text-align: left;"><a href="tel:+375215442747">42747</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарак Я. Ф.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441819">41819</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарипо В. А.</td>
+<td style="text-align: left;">ул. Янки Купалы</td>
+<td style="text-align: left;"><a href="tel:+375215442517">42517</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарипо В. В.</td>
+<td style="text-align: left;">ул. Гоголя</td>
+<td style="text-align: left;"><a href="tel:+375215442527">42527</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шарубнева С. С.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444165">44165</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шатыбелко М. З.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215443204">43204</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шацких К. Ф.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442268">42268</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шацких Ю. И.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215443281">43281</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шашок К. А.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215443798">43798</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шекелевский А. Н.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441691">41691</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шелкунова Г. В.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215443502">43502</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шендо В. И.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442430">42430</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шендо Д. В.</td>
+<td style="text-align: left;">ул. Маяковского</td>
+<td style="text-align: left;"><a href="tel:+375215460083">60083</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шерстень С. Г.</td>
+<td style="text-align: left;">ул. Народная</td>
+<td style="text-align: left;"><a href="tel:+375215443780">43780</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шершень И. А.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215441795">41795</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шестакевич И. М.</td>
+<td style="text-align: left;">пер. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215443392">43392</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шестакевич М. В.</td>
+<td style="text-align: left;">пер. Строителей</td>
+<td style="text-align: left;"><a href="tel:+375215441054">41054</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шестакевич С. В.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215442162">42162</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шестакова Г. В.</td>
+<td style="text-align: left;">ул. Красноармейская</td>
+<td style="text-align: left;"><a href="tel:+375215443366">43366</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шестопалов В. Н.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215460373">60373</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шидловская Е. Б.</td>
+<td style="text-align: left;">пер. Советский</td>
+<td style="text-align: left;"><a href="tel:+375215442840">42840</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шидловская Н. А.</td>
+<td style="text-align: left;">ул. Чехова</td>
+<td style="text-align: left;"><a href="tel:+375215442008">42008</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шикшнян А. Г.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443589">43589</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиленок А. Б.</td>
+<td style="text-align: left;">ул. Некрасова</td>
+<td style="text-align: left;"><a href="tel:+375215442444">42444</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиленок Г. Д.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215441889">41889</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман А. А.</td>
+<td style="text-align: left;">ул. Водопьянова</td>
+<td style="text-align: left;"><a href="tel:+375215443014">43014</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман А. А.</td>
+<td style="text-align: left;">ул. Пролетарская</td>
+<td style="text-align: left;"><a href="tel:+375215442620">42620</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман А. А.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215441229">41229</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман Р. И.</td>
+<td style="text-align: left;">пер. Парковый</td>
+<td style="text-align: left;"><a href="tel:+375215441144">41144</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман С. А.</td>
+<td style="text-align: left;">пер. Игнатьева</td>
+<td style="text-align: left;"><a href="tel:+375215441543">41543</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиман С. И.</td>
+<td style="text-align: left;">ул. Набережная</td>
+<td style="text-align: left;"><a href="tel:+375215441692">41692</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шиманова Е. И.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442076">42076</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шимко Е. Ф.</td>
+<td style="text-align: left;">ул. Заречная</td>
+<td style="text-align: left;"><a href="tel:+375215443886">43886</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шимукович В. Г.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215441275">41275</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шимукович С. И.</td>
+<td style="text-align: left;">ул. Вокзальная</td>
+<td style="text-align: left;"><a href="tel:+375215442085">42085</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шинкевич А. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443833">43833</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шинкевич И. М.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442603">42603</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шинкевич М. А.</td>
+<td style="text-align: left;">пер. Красноармейский</td>
+<td style="text-align: left;"><a href="tel:+375215441384">41384</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шинкевич П. П.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443296">43296</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шинявский С. И.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442343">42343</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шичко А. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215443344">43344</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шишко А. Б.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215442734">42734</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шишко Г. Г.</td>
+<td style="text-align: left;">ул. Георгия Скарины</td>
+<td style="text-align: left;"><a href="tel:+375215443967">43967</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шишко М. П.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442701">42701</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шишко П. В.</td>
+<td style="text-align: left;">ул. Мелиораторов</td>
+<td style="text-align: left;"><a href="tel:+375215443754">43754</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шишкович В. Г.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215442144">42144</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шкунтик В. В.</td>
+<td style="text-align: left;">пер. Восточный</td>
+<td style="text-align: left;"><a href="tel:+375215441039">41039</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шкунтик Н. И.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442396">42396</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шлапо В. В.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443383">43383</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шломан В. В.</td>
+<td style="text-align: left;">ул. Южная</td>
+<td style="text-align: left;"><a href="tel:+375215449206">49206</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак А. А.</td>
+<td style="text-align: left;">ул. Рабочая</td>
+<td style="text-align: left;"><a href="tel:+375215441214">41214</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак В. А.</td>
+<td style="text-align: left;">ул. Доватора</td>
+<td style="text-align: left;"><a href="tel:+375215443468">43468</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак Г. Ф.</td>
+<td style="text-align: left;">ул. Красная Горка</td>
+<td style="text-align: left;"><a href="tel:+375215441272">41272</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак М. Э.</td>
+<td style="text-align: left;">ул. Молодёжная</td>
+<td style="text-align: left;"><a href="tel:+375215443040">43040</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак Н. Н.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215444116">44116</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпак Ю. В.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215442626">42626</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпакович Е. И.</td>
+<td style="text-align: left;">ул. Халаева</td>
+<td style="text-align: left;"><a href="tel:+375215442653">42653</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпакович С. И.</td>
+<td style="text-align: left;">ул. Дзержинского</td>
+<td style="text-align: left;"><a href="tel:+375215443676">43676</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпакович Ф. А.</td>
+<td style="text-align: left;">ул. Советская</td>
+<td style="text-align: left;"><a href="tel:+375215443474">43474</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпец В. И.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215443598">43598</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпец В. С.</td>
+<td style="text-align: left;">пер. Кирова 2</td>
+<td style="text-align: left;"><a href="tel:+375215441052">41052</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпец Г. А.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443439">43439</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шпец З. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215442043">42043</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель А. В.</td>
+<td style="text-align: left;">ул. Комарова</td>
+<td style="text-align: left;"><a href="tel:+375215442284">42284</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель А. В.</td>
+<td style="text-align: left;">ул. Коммунистическая</td>
+<td style="text-align: left;"><a href="tel:+375215442975">42975</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель А. Л.</td>
+<td style="text-align: left;">ул. Тимирязева</td>
+<td style="text-align: left;"><a href="tel:+375215443049">43049</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель В. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442890">42890</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель Г. А.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442181">42181</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель Г. Л.</td>
+<td style="text-align: left;">ул. Заводская</td>
+<td style="text-align: left;"><a href="tel:+375215443563">43563</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шудель И. А.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441787">41787</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шулейко А. Л.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215442379">42379</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шулейко В. Б.</td>
+<td style="text-align: left;">ул. 17Сентября</td>
+<td style="text-align: left;"><a href="tel:+375215441113">41113</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шулейко В. Л.</td>
+<td style="text-align: left;">ул. Вишневая</td>
+<td style="text-align: left;"><a href="tel:+375215442306">42306</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шульга А. В.</td>
+<td style="text-align: left;">ул. Энгельса</td>
+<td style="text-align: left;"><a href="tel:+375215443538">43538</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шульга В. В.</td>
+<td style="text-align: left;">пер. Садовый</td>
+<td style="text-align: left;"><a href="tel:+375215441943">41943</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шульга Д. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215444174">44174</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Шуман В. М.</td>
+<td style="text-align: left;">ул. Октябрьская</td>
+<td style="text-align: left;"><a href="tel:+375215442095">42095</a></td>
+</tr>
+</tbody>
+</table>
+[/mk_table][/vc_column][vc_row]
+
+                                   Щ
+
+[vc_row][vc_column][mk_table]
+<table width="100%">
+<thead>
+<tr>
+<th style="text-align: left;">Ф. И. О.</th>
+<th style="text-align: left;">Адрес</th>
+<th style="text-align: left;">Телефон</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Щербаков В. В.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215443625">43625</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Щербаков И. С.</td>
+<td style="text-align: left;">ул. Кирова</td>
+<td style="text-align: left;"><a href="tel:+375215441033">41033</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Щербакова М. Ч.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441396">41396</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Щербик А. Я.</td>
+<td style="text-align: left;">ул. Краснодворская</td>
+<td style="text-align: left;"><a href="tel:+375215441901">41901</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">Щурова С Э.</td>
+<td style="text-align: left;">ул. М.Горького</td>
+<td style="text-align: left;"><a href="tel:+375215441942">41942</a></td>
+</tr>
+</tbody>
 </table>
 [/mk_table][/vc_column][vc_row]
